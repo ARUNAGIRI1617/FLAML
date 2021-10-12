@@ -18,5 +18,5 @@ It uses a new, cost-effective hyperparameter optimization and learner (model) se
 It is highly customizable and doesn’t need meta-learning or ensemble modeling to generate good results.
 
 
-#Here I used FLAML for dedection of diabetes
+#Here I used FLAML for Prediction of Diabetes.
        
