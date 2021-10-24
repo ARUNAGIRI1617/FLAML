@@ -1,5 +1,5 @@
 
-In this fast Incrementing World everything changing to automation.Sorry! It's already changed a decade ago.Every manual works are changed to Automation in a glimpse. Example Network Automation,Security Automation,etc... Now the Revolutionary domain Machine Learning also  going to complete its transition to Automation.Now it's going to minimize all ML learners burden.Learners who are still got a dream to cherish in ML but allergic to algorithms gets scared  and switch their domain.To get rid from this allergy we can take measures like using FLAML.
+In this fast Incrementing World everything changing to automation. Every manual works are changed to Automation in a glimpse of time. Example Network Automation,Security Automation,etc... Now the Revolutionary domain Machine Learning also  going to complete its transition to Automation.It's going to minimize all ML learners burden.Learners who are still got a dream to cherish in ML but allergic to algorithms gets frustrated  and switch their domain.To get cure this allergy we can take measures like using FLAML.
        
     
 # FLAML
@@ -22,6 +22,7 @@ It is highly customizable and doesn’t need meta-learning or ensemble modeling 
 
 REFERENCES:
 https://github.com/microsoft/FLAML
+https://microsoft.github.io/FLAML/
 
 
        
